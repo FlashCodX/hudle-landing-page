@@ -1,6 +1,6 @@
 import '../styles/app.module.css';
 
-function App() {
+function Banner() {
   return (
     <div className="App">
 
@@ -8,4 +8,4 @@ function App() {
   );
 }
 
-export default App;
+export default Banner;
