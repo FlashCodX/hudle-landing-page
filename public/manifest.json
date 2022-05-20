@@ -1,13 +1,12 @@
 {
   "short_name": "Huddle Landing Page",
-  "name": "Create React App Sample",
+  "name": "Huddle Landing Page",
   "icons": [
     {
       "src": "favicon.ico",
       "sizes": "32x32",
       "type": "image/x-icon"
     }
-    
   ],
   "start_url": ".",
   "display": "standalone",
