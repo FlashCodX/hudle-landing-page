@@ -1,9 +1,13 @@
-import '../styles/app.module.css';
+import Banner from "./Banner";
+import NavBar from "./Navbar";
 
+const styles = require('../styles/app.module.css')
 function App() {
+  const {container}=styles
   return (
-    <div className="App">
-      s
+    <div className={container}>
+      <NavBar/>
+      <Banner/>
     </div>
   );
 }
