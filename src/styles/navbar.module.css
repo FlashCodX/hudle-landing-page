@@ -9,7 +9,12 @@
   justify-content: space-between;
 }
 
+.container > img{
+  cursor: pointer;
+}
+
 .container > button{
+  cursor: pointer;
   min-width: 170px;
   min-height: 50px;
   border: none;
