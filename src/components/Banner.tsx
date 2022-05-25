@@ -1,7 +1,6 @@
 import styles  from '../styles/banner.module.css'
 import '../styles/app.module.css';
 const hero =  require('../assets/illustration-mockups.svg').default
-const bannerBackground =  require('../assets/bg-hero-desktop.svg').default
 
 function Banner() {
   const {container,content,imageContainer}=styles

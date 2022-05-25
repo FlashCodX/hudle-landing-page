@@ -37,6 +37,10 @@
   max-width: 460px;
 }
 
+.content >img{
+  position: absolute;
+}
+
 .content > button{
   cursor: pointer;
   width: 300px;

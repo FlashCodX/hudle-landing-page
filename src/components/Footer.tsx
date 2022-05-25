@@ -1,4 +1,8 @@
-import { FaBeer } from 'react-icons/fa';
+import { BiPhoneCall } from 'react-icons/bi';
+import { GoLocation } from 'react-icons/go';
+import { AiOutlineMail } from 'react-icons/ai';
+
+
 import { AiFillInstagram,AiFillTwitterCircle, AiFillFacebook} from 'react-icons/ai';
 
 import '../styles/app.module.css';
@@ -19,17 +23,17 @@ function Footer() {
         <div className={footerContent}>
         <div className={contacts}>
         <div>
-        <FaBeer/>
+        <GoLocation/>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
   incididunt ut labore et dolore magna aliqua</p>
         </div>
         <div>
-        <FaBeer/>
+        <BiPhoneCall/>
 <p>+1-543-123-4567</p>
         </div>
 
         <div>
-        <FaBeer/>
+        <AiOutlineMail/>
 <p>example@huddle.com</p>
         </div>
       </div>

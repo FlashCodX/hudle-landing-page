@@ -6,7 +6,7 @@
 
 A challenge made for Frontend Mentor.
 
-> Check it out: [https://FlashCodX.github.io/huddle-landing-page/](https://FlashCodX.github.io/huddle-landing-page/)
+> Check it out: [https://flashcodx.github.io/hudle-landing-page/](https://flashcodx.github.io/hudle-landing-page/)
 
 ## Tech
 
