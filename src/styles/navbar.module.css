@@ -23,3 +23,17 @@
   font-size: .9rem;
   font-weight: bold;
 }
+
+@media (max-width:768px) {
+  .container{
+    padding: 0 20px;
+  }
+  .container > img{
+    max-width: 100px;
+  }
+
+  .container > button{
+  min-height: 40px;
+  font-size: .8rem;
+  }
+}

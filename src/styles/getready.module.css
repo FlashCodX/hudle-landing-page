@@ -21,7 +21,9 @@ flex-direction: column;
 }
 
 .container > button{
+    transition: .5s;
     min-width: 300px;
+    cursor: pointer;
     margin: auto;
     height: 55px;
     background: violet;
@@ -30,4 +32,14 @@ flex-direction: column;
     color: white;
     font-weight: bold;
     font-size: 1rem;
+}
+
+.container > button:hover{
+    background: rgb(255, 173, 255);
+}
+
+@media (max-width:768px) {
+.container{
+    width: 90%;
+}
 }

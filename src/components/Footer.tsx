@@ -1,4 +1,6 @@
 import { FaBeer } from 'react-icons/fa';
+import { AiFillInstagram,AiFillTwitterCircle, AiFillFacebook} from 'react-icons/ai';
+
 import '../styles/app.module.css';
 import styles from  '../styles/footer.module.css';
 import GetReady from './GetReady';
@@ -42,9 +44,9 @@ function Footer() {
 
       <div className={socials}>
         <div className={socialsContainer}>
-        <FaBeer/>
-      <FaBeer/>
-      <FaBeer/>
+        <AiFillFacebook/>
+      <AiFillTwitterCircle/>
+      <AiFillInstagram/>
         </div>
      <div>&copy; Copyright 2018 Huddle. All rights reserved.</div>
       </div>
