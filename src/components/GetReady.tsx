@@ -2,7 +2,7 @@ import '../styles/app.module.css';
 import styles from  '../styles/getready.module.css';
 
 
-function App() {
+function GetReady() {
   const {container}=styles
   return (
     <div className={container}>
@@ -12,4 +12,4 @@ function App() {
   );
 }
 
-export default App;
+export default GetReady;

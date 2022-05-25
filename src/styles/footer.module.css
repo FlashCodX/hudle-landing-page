@@ -1,0 +1,58 @@
+.container{
+    margin-top: 250px;
+    background: var(--very-dark-cyan);
+    color: white;
+}
+
+.imageContainer{
+    width: 100%;
+}
+
+.content{
+    max-width: 1300px;
+    padding-top: 150px;
+    margin: auto;
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+
+.footerContent{
+    display: flex;
+    gap: 2rem;
+    background: rebeccapurple;
+}
+
+.links{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-content: flex-start;
+    gap: 1rem;
+    width: 100%;
+
+}
+
+.contacts{
+    width: 100%;
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+
+.contacts > div{
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+.socials{
+width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: inherit;
+    justify-content: space-between;
+}
+
+.content  p {
+    max-width: 430px;
+}
