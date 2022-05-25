@@ -40,11 +40,14 @@
 .links > a{
     width: fit-content;
 }
+
+.links > a:hover{
+    text-decoration: underline !important;
+}
 .contacts{
     display: flex;
     gap: 1rem;
     min-width:550px;
-
     flex-direction: column;
 }
 

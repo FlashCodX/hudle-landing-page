@@ -1,6 +1,8 @@
 # Huddle Landing Page
 
-<!-- # ![preview](./src/assets/screenshot.png) -->
+# ![preview](./src/assets/screenshot.png)
+
+# ![preview](./src/assets/screenshot2.png)
 
 A challenge made for Frontend Mentor.
 

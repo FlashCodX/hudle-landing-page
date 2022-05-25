@@ -33,13 +33,13 @@
 }
 
 .content > p{
-  font-weight: bold;
   font-size: 1rem;
-  max-width: 490px;
+  max-width: 460px;
 }
 
 .content > button{
-  max-width: 300px;
+  cursor: pointer;
+  width: 300px;
   padding: 20px 10px;
   border: none;
   border-radius: 30px;
@@ -48,3 +48,23 @@
   font-weight: bold;
   background: var(--button-background);
 }
+
+.content > button:hover{
+  background: rgb(255, 173, 255);
+
+}
+
+@media (max-width:768px) {
+  .container{
+    text-align: center;
+    justify-content: center;
+      flex-direction: column;
+  }
+
+
+  .content > button{
+    margin: auto;
+  }
+ 
+
+  }

@@ -10,10 +10,12 @@
 }
 
 .container > img{
+  max-width: 150px;
   cursor: pointer;
 }
 
 .container > button{
+  transition: .4s;
   cursor: pointer;
   min-width: 170px;
   min-height: 50px;
@@ -22,6 +24,10 @@
   border-radius: 50px;
   font-size: .9rem;
   font-weight: bold;
+}
+
+.container > button:hover{
+  color: gray;
 }
 
 @media (max-width:768px) {
