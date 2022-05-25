@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/huddle-landing-page/static/css/main.2c65a6af.css",
-    "main.js": "/huddle-landing-page/static/js/main.f8540561.js",
-    "static/media/illustration-flowing-conversation.svg": "/huddle-landing-page/static/media/illustration-flowing-conversation.447b9b47aef8c266f047e609cbf11004.svg",
-    "static/media/illustration-your-users.svg": "/huddle-landing-page/static/media/illustration-your-users.c07ebfaafd557ff00fa41ee62081bcac.svg",
-    "static/media/illustration-grow-together.svg": "/huddle-landing-page/static/media/illustration-grow-together.3c29212c7a9ccd6cccf0412e4b520833.svg",
-    "static/media/logo.svg": "/huddle-landing-page/static/media/logo.3c5a854404daac9e68209a04cf4dfbbe.svg",
-    "static/media/logowhite.svg": "/huddle-landing-page/static/media/logowhite.aba16b2c65167cf6544791bb0f69ab5c.svg",
-    "static/media/illustration-mockups.svg": "/huddle-landing-page/static/media/illustration-mockups.7b6cb4d9270f53c0f45bbf842e8ce077.svg",
-    "static/media/bg-hero-desktop.svg": "/huddle-landing-page/static/media/bg-hero-desktop.6f3681282137997079c4e3826fbb91b4.svg",
-    "index.html": "/huddle-landing-page/index.html",
-    "main.2c65a6af.css.map": "/huddle-landing-page/static/css/main.2c65a6af.css.map",
-    "main.f8540561.js.map": "/huddle-landing-page/static/js/main.f8540561.js.map"
+    "main.css": "/hudle-landing-page/static/css/main.2c65a6af.css",
+    "main.js": "/hudle-landing-page/static/js/main.dec8c657.js",
+    "static/media/illustration-flowing-conversation.svg": "/hudle-landing-page/static/media/illustration-flowing-conversation.447b9b47aef8c266f047e609cbf11004.svg",
+    "static/media/illustration-your-users.svg": "/hudle-landing-page/static/media/illustration-your-users.c07ebfaafd557ff00fa41ee62081bcac.svg",
+    "static/media/illustration-grow-together.svg": "/hudle-landing-page/static/media/illustration-grow-together.3c29212c7a9ccd6cccf0412e4b520833.svg",
+    "static/media/logo.svg": "/hudle-landing-page/static/media/logo.3c5a854404daac9e68209a04cf4dfbbe.svg",
+    "static/media/logowhite.svg": "/hudle-landing-page/static/media/logowhite.aba16b2c65167cf6544791bb0f69ab5c.svg",
+    "static/media/illustration-mockups.svg": "/hudle-landing-page/static/media/illustration-mockups.7b6cb4d9270f53c0f45bbf842e8ce077.svg",
+    "static/media/bg-hero-desktop.svg": "/hudle-landing-page/static/media/bg-hero-desktop.6f3681282137997079c4e3826fbb91b4.svg",
+    "index.html": "/hudle-landing-page/index.html",
+    "main.2c65a6af.css.map": "/hudle-landing-page/static/css/main.2c65a6af.css.map",
+    "main.dec8c657.js.map": "/hudle-landing-page/static/js/main.dec8c657.js.map"
   },
   "entrypoints": [
     "static/css/main.2c65a6af.css",
-    "static/js/main.f8540561.js"
+    "static/js/main.dec8c657.js"
   ]
 }
