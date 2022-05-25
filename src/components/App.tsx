@@ -8,12 +8,12 @@ const styles = require('../styles/app.module.css')
 function App() {
   const {container}=styles
   return (
-    <div className={container}>
+    <main className={container}>
       <NavBar/>
       <Banner/>
       <Cards/>
       <Footer/>
-    </div>
+    </main>
   );
 }
 

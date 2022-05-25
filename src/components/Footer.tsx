@@ -14,7 +14,7 @@ function Footer() {
   const {container,content,contacts,links,socials,socialsContainer,imageContainer,footerContent}=styles
 
   return (
-    <div className={container}>
+    <footer className={container}>
       <GetReady/>
       <div className={content}>
         <div className={imageContainer}>
@@ -57,7 +57,7 @@ function Footer() {
         </div>
      
       </div>
-    </div>
+    </footer>
   );
 }
 

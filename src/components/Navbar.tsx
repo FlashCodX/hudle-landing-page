@@ -3,10 +3,10 @@ const logo = require('../assets/logo.svg').default
 function NavBar() {
   const {container}= styles
   return (
-    <div className={container}>
+    <nav className={container}>
       <img src={logo} alt="logo" />
       <button>Try It Free</button>
-    </div>
+    </nav>
   );
 }
 
